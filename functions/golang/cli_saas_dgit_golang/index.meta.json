@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "longTaskMode": false,
-  "frontendSDKInvokable": false,
+  "frontendSDKInvokable": true,
   "input": [],
   "output": []
 }
